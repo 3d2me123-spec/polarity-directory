@@ -1,5 +1,8 @@
 {
-  "apiUrl": "https://example.trycloudflare.com",
-  "updatedAt": "2026-06-23T00:00:00.000Z",
-  "name": "Polarity Community"
+  "name": "Polarity Community",
+  "apiUrl": "https://executives-explore-agricultural-broadcasting.trycloudflare.com",
+  "updatedAt": "2026-06-23T18:44:24.202Z",
+  "source": "manual",
+  "levels": 0,
+  "version": 1
 }
